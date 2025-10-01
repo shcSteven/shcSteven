@@ -3,7 +3,7 @@
 ## About Me
 I am a Machine Learning Engineer with experiences and a broad interest in Deep Learning, Computer Vision, Large Language Models(LLMs), Robotics, Data Analysis and Image Processing.
 
-You may find my profile a bit empty, mostly because at least two of the big projects(50k+ lines of code) I've developed with are confidential and I was not updating with Git. But I'm an active developer and looking forward to bring up more updates here!
+You may find my profile a bit empty, mostly because at least two of the big projects(50k+ lines of code) I've developed with are confidential and I was not updating with this personal Git account. But I'm an active developer and looking forward to bring up more updates here!
 
 <!--
 **shcSteven/shcSteven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
